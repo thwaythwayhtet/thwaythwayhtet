@@ -5,7 +5,7 @@ I am a Demand Planner who is passionate about Forecasting, Data Analysis & Suppl
 * Data Visualization & BI: Power BI 🟨, Excel 🟩
 * Programming & Analysis: SQL🗄️, Python 🐍
 * Business & Analytics: Forecasting, Demand Planning, Supply Chain Analytics 📊
-* Other Skills: Data storytelling, Business insights, Continuous learning 🧠
+* Soft Skills: Self-directed learning, Analytical mindset, effective communication, teamwork, quick adaptability
 
 ## Project Portfolio 📂
 * Please check out my project portfolio.   
