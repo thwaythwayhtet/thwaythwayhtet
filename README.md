@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Thway Thway 👋
+I am a Demand Planner who is passionate about Forecasting, Data Analysis & Supply Chain Analytics. I enjoy working with data, analytics tools, and visualization to turn information into meaningful insights.  Currently exploring business analytics, data storytelling, and continuous learning in SQL and Python.
 
-<!--
-**thwaythwayhtet/thwaythwayhtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Experience
+* Data Visualization & BI: Power BI 🟨, Excel 🟩
+* Programming & Analysis: SQL🗄️, Python 🐍
+* Business & Analytics: Forecasting, Demand Planning, Supply Chain Analytics 📊
+* Other Skills: Data storytelling, Business insights, Continuous learning 🧠
 
-Here are some ideas to get you started:
+## Project Portfolio 📂
+* Please check out my project portfolio.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+* 
