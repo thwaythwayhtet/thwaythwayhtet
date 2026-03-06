@@ -11,4 +11,4 @@ I am a Demand Planner who is passionate about Forecasting, Data Analysis & Suppl
 * Please check out my project portfolio.   
 
 ## Contact Me
-* 
+* [LinkedIn](www.linkedin.com/in/thway-thway-htet)
