@@ -8,7 +8,9 @@ I am a Demand Planner who is passionate about Forecasting, Data Analysis & Suppl
 * Soft Skills: Self-directed learning, Analytical mindset, effective communication, teamwork, quick adaptability
 
 ## Project Portfolio 📂
-* Please check out my project portfolio.   
+* Please check out my project portfolio.
+* Power BI Projects
+* SQL Projects  
 
 ## Contact Me
 * [LinkedIn](www.linkedin.com/in/thway-thway-htet)
