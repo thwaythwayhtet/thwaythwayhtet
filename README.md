@@ -11,6 +11,7 @@ I am a Demand Planner who is passionate about Forecasting, Data Analysis & Suppl
 * Please check out my project portfolio.
   * [Power BI Analytics Portfolio](https://github.com/thwaythwayhtet/Power-BI-Analytics-Portfolio/blob/main/README.md)
   * [SQL Data Analytics Portfolio](https://github.com/thwaythwayhtet/SQL-Portfolio-Projects/blob/main/README.md)
+  - Python Project Portfolio - coming soon
 
 ## Contact Me
 * [LinkedIn](www.linkedin.com/in/thway-thway-htet)
